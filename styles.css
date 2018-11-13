@@ -1,0 +1,51 @@
+body {
+     text-align: center;
+     background: linear-gradient(to bottom, lightyellow 0%, lightpink 100%);
+     background-image:url("https://media0.giphy.com/media/U3qYN8S0j3bpK/200w.webp?cid=3640f6095beacd207872436b45ca447e");
+}
+.first {
+    height: 400px;
+}
+img {
+    height: 300px;
+    border:7px solid black;
+}
+.title {
+    color:#00FFFF;
+    font-weight:900;
+    font-size:70px;
+    text-decoration: underline overline;
+    font-style: italic;
+    text-shadow: 4px 2px black;
+}
+.maintitle {
+    font-size:150px;
+    color:#ffe033;
+    text-shadow: 7px 2px black;
+    font-family: 'Sacramento', cursive;
+    text-decoration: underline overline;
+}
+.winner {
+    font-size:60px;
+}
+.nominees {
+    font-size:60px;
+    color:#a862ea;
+    text-shadow: 2px 1px black;
+}
+.one {
+    font-family: 'Dancing Script', cursive;
+}
+.two {
+    font-family: 'Pacifico', cursive;
+}
+.three {
+    font-family: 'Satisfy', cursive;
+}
+.four {
+    font-family: 'Black And White Picture', sans-serif;
+}
+a {
+    color: #00b36b; 
+}
+    
